@@ -1,8 +1,11 @@
 {
-  "name": "koa-passport-facebook",
+  "name": "koa-login-app",
   "version": "1.0.0",
-  "description": "Close-to-real-life app example with middlewares, passport, mongoose etc",
+  "description": "Close-to-real-life app example",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "directories": {
     "test": "test"
   },
@@ -27,9 +30,6 @@
     "request-promise": "^4.2.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "miguel andreas",
   "license": "ISC"
 }
