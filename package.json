@@ -1,0 +1,35 @@
+{
+  "name": "koa-passport-facebook",
+  "version": "1.0.0",
+  "description": "Close-to-real-life app example with middlewares, passport, mongoose etc",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "co-busboy": "^1.3.1",
+    "config": "^1.25.1",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-favicon": "^2.0.0",
+    "koa-generic-session": "^1.11.5",
+    "koa-logger": "^2.0.1",
+    "koa-passport": "^3.0.0",
+    "koa-router": "^7.1.1",
+    "koa-session-mongoose": "^1.0.0",
+    "koa-static": "^3.0.0",
+    "mongoose": "^4.9.4",
+    "mongoose-beautiful-unique-validation": "^5.1.1",
+    "passport-facebook": "^2.1.1",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.0-beta11",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miguel andreas",
+  "license": "ISC"
+}
