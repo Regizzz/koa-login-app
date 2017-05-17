@@ -27,10 +27,7 @@ Login app with email and facebook authentication. U need [nodejs](https://nodejs
 
 So they said testing with [mocha](https://mochajs.org/) it's simple and fun ...
 
-`npm i mocha`
-`npm i should`
-`npm i co-mocha`
-`npm i selenium-webdriver`
+`npm i mocha should co-mocha selenium-webdriver`
 
 then run `mocha`
 
